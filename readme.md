@@ -14,6 +14,8 @@ http://coliru.stacked-crooked.com/a/f203f45c01f025dd prototype for python Dict-l
 
 https://coliru.stacked-crooked.com/a/6a16d4b41c5c310e variadic inheritance and using
 
+https://coliru.stacked-crooked.com/a/fef3249e49640a61 is_homogeneous using variadic expression
+
 
 ## std::variants
 https://coliru.stacked-crooked.com/a/edaffec28fb1d005 uses std::get on variants
