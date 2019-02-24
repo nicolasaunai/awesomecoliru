@@ -12,6 +12,9 @@ https://coliru.stacked-crooked.com/a/edaffec28fb1d005 trick for alias template s
 
 http://coliru.stacked-crooked.com/a/f203f45c01f025dd prototype for python Dict-like structure
 
+https://coliru.stacked-crooked.com/a/6a16d4b41c5c310e variadic inheritance and using
+
+
 ## std::variants
 https://coliru.stacked-crooked.com/a/edaffec28fb1d005 uses std::get on variants
 
